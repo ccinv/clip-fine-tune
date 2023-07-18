@@ -1,0 +1,10 @@
+dataset.zip
+ImageNet-1K-16shot/
+lost+found/
+__pycache__/
+.Trash-1000/
+.ipynb_checkpoints/
+.lsp_symlink/
+.virtual_documents/
+.lsp_symlink
+*pt

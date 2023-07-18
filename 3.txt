@@ -1,0 +1,16 @@
+Top-1 Accuracy: 73.78%
+Top-5 Accuracy: 94.97%
+Top-1 Accuracy: 71.66%
+Top-5 Accuracy: 94.49%
+Top-1 Accuracy: 72.44%
+Top-5 Accuracy: 94.74%
+Top-1 Accuracy: 71.99%
+Top-5 Accuracy: 94.09%
+Top-1 Accuracy: 71.78%
+Top-5 Accuracy: 93.80%
+Top-1 Accuracy: 71.19%
+Top-5 Accuracy: 93.43%
+Top-1 Accuracy: 71.06%
+Top-5 Accuracy: 93.15%
+Top-1 Accuracy: 71.30%
+Top-5 Accuracy: 93.29%

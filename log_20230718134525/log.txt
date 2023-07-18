@@ -1,0 +1,36 @@
+2023-07-18 13:45:25,125 - > Arguments:
+2023-07-18 13:45:25,125 - 	kshots: 1
+2023-07-18 13:45:25,125 - 	batch_size: 64
+2023-07-18 13:45:25,125 - 	epochs: 15
+2023-07-18 13:45:53,226 - [epoch 1] , train time: 28.0990s
+2023-07-18 13:45:53,226 - ***** Training set result ***** loss: 0.1986
+2023-07-18 13:46:21,587 - [epoch 2] , train time: 27.4814s
+2023-07-18 13:46:21,588 - ***** Training set result ***** loss: 0.1685
+2023-07-18 13:46:49,513 - [epoch 3] , train time: 27.0682s
+2023-07-18 13:46:49,513 - ***** Training set result ***** loss: 0.0872
+2023-07-18 13:47:17,629 - [epoch 4] , train time: 27.2686s
+2023-07-18 13:47:17,629 - ***** Training set result ***** loss: 0.0897
+2023-07-18 13:47:44,573 - [epoch 5] , train time: 26.9437s
+2023-07-18 13:47:44,573 - ***** Training set result ***** loss: 0.0585
+2023-07-18 13:48:12,143 - [epoch 6] , train time: 26.7161s
+2023-07-18 13:48:12,143 - ***** Training set result ***** loss: 0.0498
+2023-07-18 13:48:39,534 - [epoch 7] , train time: 26.5287s
+2023-07-18 13:48:39,534 - ***** Training set result ***** loss: 0.0437
+2023-07-18 13:49:07,460 - [epoch 8] , train time: 27.0775s
+2023-07-18 13:49:07,460 - ***** Training set result ***** loss: 0.0486
+2023-07-18 13:49:34,913 - [epoch 9] , train time: 27.4522s
+2023-07-18 13:49:34,913 - ***** Training set result ***** loss: 0.0343
+2023-07-18 13:50:02,744 - [epoch 10] , train time: 26.9386s
+2023-07-18 13:50:02,744 - ***** Training set result ***** loss: 0.0424
+2023-07-18 13:50:29,452 - [epoch 11] , train time: 26.7067s
+2023-07-18 13:50:29,452 - ***** Training set result ***** loss: 0.0330
+2023-07-18 13:50:57,290 - [epoch 12] , train time: 26.9486s
+2023-07-18 13:50:57,290 - ***** Training set result ***** loss: 0.0407
+2023-07-18 13:51:24,412 - [epoch 13] , train time: 27.1205s
+2023-07-18 13:51:24,412 - ***** Training set result ***** loss: 0.0482
+2023-07-18 13:51:51,142 - [epoch 14] , train time: 26.7296s
+2023-07-18 13:51:51,142 - ***** Training set result ***** loss: 0.0412
+2023-07-18 13:52:18,118 - [epoch 15] , train time: 26.9755s
+2023-07-18 13:52:18,119 - ***** Training set result ***** loss: 0.0486
+2023-07-18 13:52:18,119 -  
+2023-07-18 13:52:18,119 - Elapsed time 00:06:52
